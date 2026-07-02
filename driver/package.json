@@ -1,0 +1,15 @@
+{
+  "name": "pixel-agents-driver",
+  "version": "0.1.0",
+  "description": "OpenRouter-driven agent driver for Pixel Agents office",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "dev": "tsx watch src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.0"
+  }
+}
